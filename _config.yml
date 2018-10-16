@@ -26,7 +26,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: naifen
 
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -46,7 +46,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 author:
   name             : "Jerry.G"
   avatar           : "/assets/images/bio-avatar.png"
-  # avatar         : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Rubiest, Rails enthusiast, Vim lover, who also codes in Javascript & Typescript with React, Stimulus.js. Interested in WASM, Crystal-lang, Rust, Deno, Clojure, Emacs, Linux, Blockchain, AI and Sonic Pi 🤩."
   location         : "California, U.S."
   email            : "jgus2012@gmail.com"
