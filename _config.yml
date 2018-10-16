@@ -27,7 +27,7 @@ twitter_username:
 github_username: naifen
 
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Exclude from processing.
@@ -44,9 +44,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Author
 author:
-  name             : "Jerry"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Rubiest who also codes in Javascript. Interested in React.js, Stimulus.js, GraphQL, WASM, Crystal-lang, Rust, Blockchain, AI, etc."
+  name             : "Jerry.G"
+  avatar           : "/assets/images/bio-avatar.png"
+  # avatar         : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Rubiest, Rails enthusiast, Vim lover, who also codes in Javascript & Typescript with React, Stimulus.js. Interested in WASM, Crystal-lang, Rust, Deno, Clojure, Emacs, Linux, Blockchain, AI and Sonic Pi 🤩."
   location         : "California, U.S."
   email            : "jgus2012@gmail.com"
   links:

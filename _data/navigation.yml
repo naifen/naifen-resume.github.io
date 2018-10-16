@@ -1,3 +1,7 @@
 main:
+  - title: "Ruby China PWA"
+    url: https://ruby-china.surge.sh/
+  - title: "Google Tasks web client"
+    url: https://ruby-china.surge.sh/
   - title: "My public repos"
     url: https://github.com/naifen?tab=repositories
