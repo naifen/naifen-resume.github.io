@@ -19,11 +19,13 @@ user credentials returned from Google Api requests for later use.
 
 ### Screenshots
 
-![get-cred](/assets/images/google-api-get-cred.gif){:height="576px" width="288px"}
-![auth](/assets/images/google-api-auth.gif){:height="576px" width="288px"}
-![list Google Tasks](/assets/images/google-taskslist.png){:height="296px" width="214px"}
+![get-cred](/assets/images/google-api-get-cred.gif){:width="600px"}
+![auth](/assets/images/google-api-auth.gif){:width="600px"}
+![list Google Tasks](/assets/images/google-taskslist.png){:width="400px"}
 
 ## What I've learned
+
+### * Extract conplex logic out from controller into service object.
 
 ### * How to get rid of sprockets and replace it with webpack.
 
