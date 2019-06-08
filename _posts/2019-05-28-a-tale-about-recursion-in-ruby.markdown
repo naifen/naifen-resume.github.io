@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "A Look Into Ruby Recursion"
+title:  "A Tale About Recursion In Ruby"
 date:   2018-05-28 21:05:13 -0700
 categories: jekyll update
 ---
