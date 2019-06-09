@@ -7,11 +7,23 @@ title:  "Interact With Google Tasks In a Rails Stimulusjs Web App"
 date:   2019-01-18 20:18:33 -0700
 categories: ruby rails stimulusjs google-api service-object
 ---
-# Intro
-A Rails 5 App to connect to Google Tasks with ``google-api`` ruby gem.
+Build a Rails app utilizing ``google-api`` gem to connect Google Tasks.
+Replace Sprokets with Webpack and use Stimulusjs for frontend.
+
+## Intro
+
+A Rails 5 App connecting to Google Tasks with ``google-api`` ruby gem.
 Frontend built with Webpack, Stimulus.js and bulma.io, completely replace
 sprockets with webpack for assets management. Utilizing Redis to store
-user credentials returned from Google Api requests for later use.
+user credentials returned from Google Api requests for later use. It's
+still WIP but can connect with Google API and display content already.
+
+## Motivation
+
+I use Google Tasks a lot, but its web interface is only accessible in Gmail
+as a right side bar app. Why not making a stand alone App using Rails?
+And I want to try to combine Stimulusjs with Typescript, see if the can
+get along well.
 
 ## Demo
 

@@ -7,10 +7,12 @@ title:  "An Adventure in React.js & PWA"
 date:   2018-09-28 22:10:23 -0700
 categories: react.js pwa javascript web mobile
 ---
-# Intro
+Making a PWA with React.js utilizing Ruby China's public API.
 
-> A PWA made with React.js using RubyChina's APIs. It's built with mobile first in mind, responsive desktop UI & UX is also included.
+## Intro
 
+A PWA made with React.js using RubyChina's APIs. It's built with mobile first in mind, responsive desktop UI & UX is also included. I used to use Redux a lot,
+this time I want to see if I can use React's new Context API only.
 
 ## Motivation
 
@@ -79,6 +81,11 @@ https will casue firefox android PWA bounce out and fallback to the browser
 ### * React Router not firing up componentsDidMount in PWA?
 
 Still investigating this issue.
+
+### * React Context API can work with Redux.
+
+Context API is a brilliant way to pass states down to children
+components. But it's not meant to replace Redux, they can live together.
 
 [rbcnpwa-demo]: https://ruby-china.surge.sh/
 [desktop-pwa-instruction]: https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8
