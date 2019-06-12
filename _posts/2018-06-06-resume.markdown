@@ -1,25 +1,70 @@
 ---
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "file-alt"
 layout: single
 title:  "Résumé"
 date:   2018-06-06 21:15:13 -0700
 categories: résumé
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+My resume
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Skills & abilities
 
-Jekyll also offers powerful support for code snippets:
+Below is a chart to demonstrate my core skills and strengths.
+![skills-strength](/assets/images/skills-strength.png){:width="550px"}
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+* 6+ years experience with Ruby, Rails and Javascript.
+* Years of hands on experience with Javascript framworks: React, Redux, Angular,
+Stimulus, Jquery. Typescript Node.js
+* Fluent in Git workflow, pull request, merge, rebase, etc. and tools like Bundlr Webpack
+* Efficient in basic SQL operations.
+* Write clean, DRY, well-orgnized, easy to understand and well documented code.
+* Being able to read and understand code and work in a agiliel
+development style.
+* Have passion, willing to learn new technologies.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Education
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+University California, San Diego class of 2012. B.S. in management
+science.
+
+I also took computer science courses and earned units points while in UCSD.
+I learned Java and Javascript there, then I self-taught Ruby and rails
+and became a full-stack web developer.
+
+## Working Experience
+
+### Full stack developer at Channel Distrubition, INC 2013-2015
+* Developed and maintained E-commerce website using Ruby on Rails, oral
+care
+* First hand experieced with Spree, a rails E-commerce gem
+* Create frontend with jQuery and bootstrap.
+* Setup Recursive payment generate 5% - 10% more monthly sales
+* Connect warehouse computer with E-commerce app and USPS shipping
+software, save a lot labor, time and headache of my co-workers.
+
+### Online education project 2016-2017
+* Online AP class training for Chinese highschool students who plan to
+apply U.S. universities.
+* Work with other developers as a team, review and discuss code.
+* Build frontend using Angular and refactor into React.
+* Worked with redis, nginx in production.
+* Developed a beta sharing Board app for better user experience.
+* Tutored Chinese High School students Java, Math AP class myself.
+
+### E-commerce project 2017-2018
+* Build E-commerce project for an austrilia based company using Solidus, a
+fork of spree.
+
+### IOT project manager at ANP JL, INC 2018-2019
+* Work on a sports lighting IOT project for a U.S. sports lighting contractor. client.
+* Work with a researcher who works at NYU EE lab who did the hardware
+part of the project.[Jekyll Talk][jekyll-talk]
+* Develop node.js UDP server for the hardware demo made by my partner.
+Here's a link to the demo video.
+* Coordinate with Chinese factory to make samples and send to U.S.
+client for testing.
+* Maintain existing customers and develop protential customers.
+
 [jekyll-talk]: https://talk.jekyllrb.com/

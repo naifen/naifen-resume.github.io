@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 locale: en-US
-title: "~/Jerry's Dev Channel"
+title: "~/Jerry's Dev Blog"
 title_separator: "-"
 email: jgus2012@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -46,7 +46,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 author:
   name             : "Jerry.G"
   avatar           : "/assets/images/bio-avatar.png"
-  bio              : "Rubiest, Rails enthusiast, Vim lover, who also codes in Javascript & Typescript, experienced with React, Angular, Stimulusjs, Vue & PWA. Interested in other languages like Go, Rust, Crystal, Clojure, and tecnologies such as GraphQL, Deno, AI, WASM, Linux, Blockchain, Emacs and Sonic Pi 🤩."
+  bio              : "Rubiest, Rails enthusiast, Vim lover, who also codes in Javascript & Typescript, experienced with React, Angular, Stimulusjs, Nodejs, Vue & PWA. Interested in other languages like Go, Rust, Crystal, Clojure, and tecnologies such as Docker, GraphQL, Deno, AI, WASM, Linux, Blockchain, Emacs, Sonic Pi 🤩."
   location         : "California, U.S."
   email            : "jgus2012@gmail.com"
   links:
