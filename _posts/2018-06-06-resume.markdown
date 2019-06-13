@@ -9,7 +9,7 @@ categories: résumé
 ---
 * Name:    Jerry Guo
 * Email:   jgus2012@gmail.com
-* Phone:   (949)579-9336
+* Phone:   (408)838-8779
 * Website: https://naifen.github.io/
 
 ## Skills & abilities
