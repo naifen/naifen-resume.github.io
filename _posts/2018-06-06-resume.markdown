@@ -7,64 +7,110 @@ title:  "Résumé"
 date:   2018-06-06 21:15:13 -0700
 categories: résumé
 ---
-My resume
+Jerry Guo's resume
 
 ## Skills & abilities
+
+* 6+ years of experience with Ruby, Rails, and Javascript.
+* Years of hands-on experience with Javascript frameworks: React, Angular,
+Stimulus, jQuery, and other Javascript related technologies, such as
+Typescript, Node.js, Express.js, Webpack, Redux, React Router, and more.
+* Understand the principles of OOP and functional programming. Practical
+experience of developing software using both paradigms. Solid knowledge
+of common Algorithm.
+* Understand the fundamentals of HTTP concepts, having experience working
+with REST and GraphQL services.
+* Understand the core SQL concepts and efficient in basic SQL operations.
+Experienced with ORM like ActiveRecord.
+* Write clean, DRY, scalable, understandable and well-documented code.
+Write tests for my code and develop software with TDD, BDD approaches
+(rspec, minitest for ruby and mocha, chai, etc for javascript).
+* Understand the core concepts of Git. Fluent in Git operations and
+team-based workflow: branching, pull/merge request, rebase, etc.
+* Being able to read and understand others' code and work in an agile
+development team, communicate with UX, UI designers and implement their
+designs.
+* Proficient with Vim, VS-Code, etc to maximum productivity.
+* Having a passion for software development and a willingness to learn,
+experiment with the latest technologies.
+* Good communication skill, critical thinking, and problem-solving
+abilities. Self-driven and motivated.
 
 Below is a chart to demonstrate my core skills and strengths.
 ![skills-strength](/assets/images/skills-strength.png){:width="550px"}
 
-* 6+ years experience with Ruby, Rails and Javascript.
-* Years of hands on experience with Javascript framworks: React, Redux, Angular,
-Stimulus, Jquery. Typescript Node.js
-* Fluent in Git workflow, pull request, merge, rebase, etc. and tools like Bundlr Webpack
-* Efficient in basic SQL operations.
-* Write clean, DRY, well-orgnized, easy to understand and well documented code.
-* Being able to read and understand code and work in a agiliel
-development style.
-* Have passion, willing to learn new technologies.
-
 ## Education
 
-University California, San Diego class of 2012. B.S. in management
+University California, San Diego class of 2012. B.S. Major in management
 science.
 
-I also took computer science courses and earned units points while in UCSD.
-I learned Java and Javascript there, then I self-taught Ruby and rails
+While my Major is all about Calculus and mathematics modeling, I also took
+computer science courses and earned units points while in UCSD.
+I learned Java and Javascript there, then I self-taught Ruby and Rails
 and became a full-stack web developer.
 
 ## Working Experience
 
-### Full stack developer at Channel Distrubition, INC 2013-2015
-* Developed and maintained E-commerce website using Ruby on Rails, oral
-care
-* First hand experieced with Spree, a rails E-commerce gem
-* Create frontend with jQuery and bootstrap.
-* Setup Recursive payment generate 5% - 10% more monthly sales
-* Connect warehouse computer with E-commerce app and USPS shipping
-software, save a lot labor, time and headache of my co-workers.
+### Full stack developer at Channel Distrubition, INC. Jan 2013- July 2015
+* Developed and maintained an oral care products E-commerce website using
+Ruby on Rails.
+* Extensive experience with using and customizing Spree, a rails E-commerce
+gem, override it for company's business need.
+* Created the store frontend with jQuery and bootstrap. Implemented features
+that other employees can easily modify part of frontend from the
+administration panel dynamically, eg, on-sale items and the discount amount, etc.
+* Implemented recurring payment with products subscription, and
+consumption products replacement reminder feature, which generated
+5% - 10% more monthly sales.
+* Implemented Google product feeds automation, generated products feed
+in required format and send to Google to ensure products were
+displayed in Google shopping search results.
+* Implemented a system to connect warehouse computers with E-commerce app
+backend, getting the shipping information through USPS shipping software,
+update company's E-commerce app database and send customers shipment
+notification emails with cron jobs. This automation system saved other
+employee's labor, time, errors and headache, improved their happiness
+and customer satisfaction.
 
-### Online education project 2016-2017
-* Online AP class training for Chinese highschool students who plan to
-apply U.S. universities.
-* Work with other developers as a team, review and discuss code.
-* Build frontend using Angular and refactor into React.
-* Worked with redis, nginx in production.
-* Developed a beta sharing Board app for better user experience.
-* Tutored Chinese High School students Java, Math AP class myself.
+### Online education startup Sep 2015-Nov 2017
+* Startup online AP class tutoring for Chinese high school students who
+plan to apply for U.S. universities.
+* Developed the website with peer developers in the team using Ruby on Rails.
+Review code, discuss program implementations and technology stack on a daily basis.
+* Built frontend using Angular.js initially and later started to migrate
+to React.js and ES6. Ensure code quality with ES-lint and tests. Practiced
+OOP and Functional paradigms.
+* Worked with Redis, Nginx, and WebSockets, etc in the production
+environment and deployed the app to AWS with EC2, RDS, S3 and CloudFront.
+* Tutored Chinese high school students Java and Math AP class.
 
-### E-commerce project 2017-2018
-* Build E-commerce project for an austrilia based company using Solidus, a
-fork of spree.
+### Bath & Kitchen products E-commerce project Dec 2017-Aug 2018
+* Built E-commerce project for an Australia based bath and kitchen products
+company using Ruby on Rails and Solidus, a fork of Spree E-commerce gem.
+* Using React.js in the frontend of the Rails app.
+* Built gems to implement features, such as customers messaging functionalities
+about their orders, and product reviews with pictures for better SEO and
+conversion rate.
+* Applied my knowledge and experience gained from previous jobs. Learned
+to use Docker in the development environment.
+* Researched on doing E-commerce business on Amazon while having a
+dedicated online store.
 
-### IOT project manager at ANP JL, INC 2018-2019
-* Work on a sports lighting IOT project for a U.S. sports lighting contractor. client.
-* Work with a researcher who works at NYU EE lab who did the hardware
-part of the project.[Jekyll Talk][jekyll-talk]
-* Develop node.js UDP server for the hardware demo made by my partner.
-Here's a link to the demo video.
-* Coordinate with Chinese factory to make samples and send to U.S.
-client for testing.
-* Maintain existing customers and develop protential customers.
+### IoT project manager at ANP JL, INC Oct 2018-Apr 2019
+* Worked on a sports lighting IoT project for a U.S. sports lighting
+contractor client, traveled to their office multiple times.
+* Worked with a researcher who studied and worked at Columbia University
+EE lab who did the hardware part of the project.
+* Designed the infrastructure of the demo with my partner, implemented a
+Node.js UDP server to work with the hardware made by my partner, and showed to
+our client. Here's a link to the demo videos and brief introduction diagram.
+[Demo][demo-url]
+* Coordinated with Chinese LED lighting factory to make samples and send
+to the U.S. client for testing.
+* Maintained existing customers and developed potential customers online
+and by visiting their offices.
 
-[jekyll-talk]: https://talk.jekyllrb.com/
+[demo-url]: https://drive.google.com/drive/folders/1oV5e-RjhLeNPI4gRewH02vcymwyfLl8z
+
+## Work authorization
+Legally eligible to work in the United States. **NO** employment sponsorship needed.
