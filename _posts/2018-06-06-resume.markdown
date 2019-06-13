@@ -7,7 +7,9 @@ title:  "Résumé"
 date:   2018-06-06 21:15:13 -0700
 categories: résumé
 ---
-Jerry Guo's resume
+* Jerry Guo
+* jgus2012@gmail.com
+* (949)579-9336
 
 ## Skills & abilities
 
