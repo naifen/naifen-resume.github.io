@@ -15,25 +15,30 @@ categories: résumé
 ## Skills & abilities
 
 * 6+ years of experience with Ruby, Rails, and Javascript.
-* Years of hands-on experience with Javascript frameworks: React, Angular,
-Stimulus, jQuery, and other Javascript related technologies, such as
-Typescript, Node.js, Express.js, Webpack, Redux, React Router, and more.
-* Understand the principles of OOP and functional programming. Practical
+* Years of hands-on experience with Javascript frameworks/libraries: React,
+Angular, Stimulus, jQuery, and other Javascript related technologies, such as
+Typescript, Node.js, Webpack, Babel, Redux and more.
+* Experienced with Rails MVC pattern, CoC. Practical experience with Rails'
+configurations and features beyond the basics, e.g. Meta Programming,
+service objects, concerns, advanced associations, ActiveSupport Notifications,
+Instrumentation, etc. Understand Rails security principles. TDD/BDD.
+* Understand the principles of OOP and Functional Programming. Practical
 experience of developing software using both paradigms. Solid knowledge
-of common Algorithm.
-* Understand the fundamentals of HTTP concepts, having experience working
-with REST and GraphQL services.
-* Understand the core SQL concepts and efficient in basic SQL operations.
-Experienced with ORM like ActiveRecord.
+of common Algorithms and data structures.
+* Understand the fundamentals of HTTP concepts, experience working
+with/developing REST api, GraphQL services in both backend and frontend.
+* Understand the core SQL concepts and efficient in SQL queries/operations.
+Experienced with using ORM like ActiveRecord inside and outside Rails.
 * Write clean, DRY, scalable, understandable and well-documented code.
-Write tests for my code and develop software with TDD, BDD approaches
-(rspec, minitest for ruby and mocha, chai, etc for javascript).
-* Understand the core concepts of Git. Fluent in Git operations and
-team-based workflow: branching, pull/merge request, rebase, etc.
-* Being able to read and understand others' code and work in an agile
+Write tests for my code and develop software with TDD, BDD approaches for
+both ruby projects using Rspec/Minitest and javascript projects using mocha, chai, etc.
+* Being able to read and understand teamates' code, discuss program
+implementations and technologies choices, work in an agile
 development team, communicate with UX, UI designers and implement their
 designs.
-* Proficient with Vim, VS-Code, etc to maximum productivity.
+* Understand the core concepts of Git. Fluent in Git operations and
+team-based workflow: branching, pull/merge request, rebase, etc.
+* Proficient with development tools like Vim, VS-Code, etc to maximum productivity.
 * Having a passion for software development and a willingness to learn,
 experiment with the latest technologies.
 * Good communication skill, critical thinking, and problem-solving
@@ -44,8 +49,7 @@ Below is a chart to demonstrate my core skills and strengths.
 
 ## Education
 
-University California, San Diego class of 2012. B.S. Major in management
-science.
+University California, San Diego. Bachelor of Science.
 
 While my Major is all about Calculus and mathematics modeling, I also took
 computer science courses and earned units points while in UCSD.
@@ -55,63 +59,64 @@ and became a full-stack web developer.
 ## Working Experience
 
 ### Full stack developer at Channel Distrubition, INC. Jan 2013- July 2015
-* Developed and maintained an oral care products E-commerce website using
-Ruby on Rails.
+* Developed and maintained an oral care products E-commerce website
+built with Ruby on Rails. Performed major and minor Rails version upgrade.
 * Extensive experience with using and customizing Spree, a rails E-commerce
-gem, override it for company's business need.
+gem, override views, models, controllers for company's business need.
 * Created the store frontend with jQuery and bootstrap. Implemented features
 that other employees can easily modify part of frontend from the
 administration panel dynamically, eg, on-sale items and the discount amount, etc.
 * Implemented recurring payment with products subscription, and
-consumption products replacement reminder feature, which generated
+consumption products replacement reminder features, which generated
 5% - 10% more monthly sales.
-* Implemented Google product feeds automation, generated products feed
-in required format and send to Google to ensure products were
-displayed in Google shopping search results.
-* Implemented a system to connect warehouse computers with E-commerce app
+* Implemented Google product feeds automation workflow. Write program to
+generated products feed in Google shopping's required format and upload to
+Google, ensure products can be displayed in Google shopping search results.
+* Implemented a system to connect warehouse computers to E-commerce app
 backend, getting the shipping information through USPS shipping software,
-update company's E-commerce app database and send customers shipment
-notification emails with cron jobs. This automation system saved other
-employee's labor, time, errors and headache, improved their happiness
-and customer satisfaction.
+updated company's E-commerce app database and sent customers shipment
+notification emails with rake tasks and cron jobs. This automation system
+saved other employee's labor, time, errors and headache, improved their
+happiness and customer satisfaction.
 
 ### Online education startup Sep 2015-Nov 2017
-* Startup online AP class tutoring for Chinese high school students who
-plan to apply for U.S. universities.
-* Developed the website with peer developers in the team using Ruby on Rails.
-Review code, discuss program implementations and technology stack on a daily basis.
-* Built frontend using Angular.js initially and later started to migrate
-to React.js and ES6. Ensure code quality with ES-lint and tests. Practiced
-OOP and Functional paradigms.
-* Worked with Redis, Nginx, and WebSockets, etc in the production
-environment and deployed the app to AWS with EC2, RDS, S3 and CloudFront.
-* Tutored Chinese high school students Java and Math AP class.
+* Built Rails app for a startup online AP courses tutoring for Chinese
+high school students who are planning to apply for U.S. universities.
+* Developed the website with teamates. Review code,
+discuss program implementations and technology choice on a daily basis.
+* Built frontend using Angular initially and later rebuilt in React and ES6.
+Ensure code quality with ES-lint and TDD.
+* Gained extensive experience and knowledge of OOP and Functional programming
+by practice both paradigms during development.
+* Worked with Redis, Nginx, and WebSockets, etc in the production environment
+and deployed the app to AWS with EC2, RDS, S3, and CloudFront.
+* Revised Java programming and tutored Java and Math AP class.
 
 ### Bath & Kitchen products E-commerce project Dec 2017-Aug 2018
 * Built E-commerce project for an Australia based bath and kitchen products
-company using Ruby on Rails and Solidus, a fork of Spree E-commerce gem.
-* Using React.js in the frontend of the Rails app.
-* Built gems to implement features, such as customers messaging functionalities
-about their orders, and product reviews with pictures for better SEO and
-conversion rate.
-* Applied my knowledge and experience gained from previous jobs. Learned
-to use Docker in the development environment.
-* Researched on doing E-commerce business on Amazon while having a
-dedicated online store.
+company using Ruby on Rails and Solidus E-commerce gem. Built store frontend
+in Rails with React.
+* Modulize app by implementing features, functionalities as gems, such as
+customer messagings on orders, and products reviews with pictures
+for better SEO and conversion rate.
+* Utilized Docker in development and production environment. Integrated
+CI tools and workflow with the Rails app.
+* Learned E-commerce knowledge, best practices and used in real-world
+business on both the dedicated store and Amazon.
 
-### IoT project manager at ANP JL, INC Oct 2018-Apr 2019
+### IoT project developer at ANP JL, INC Oct 2018-June 2019
 * Worked on a sports lighting IoT project for a U.S. sports lighting
-contractor client, traveled to their office multiple times.
-* Worked with a researcher who studied and worked at Columbia University
-EE lab who did the hardware part of the project.
+contractor client which requires lighting fixtures IoT feature.
 * Designed the infrastructure of the demo with my partner, implemented a
 Node.js UDP server to work with the hardware made by my partner, and showed to
 our client. Here's a link to the demo videos and brief introduction diagram.
 [Demo][demo-url]
-* Coordinated with Chinese LED lighting factory to make samples and send
-to the U.S. client for testing.
-* Maintained existing customers and developed potential customers online
-and by visiting their offices.
+* Worked with designers developing the Web user interface using React
+and Mobile user interface using React-Native.
+* Worked with a researcher who studied and worked at Columbia University
+EE lab who did the hardware part of the project.
+* Coordinated with the client(visiting their offices multiple times) and
+a Chinese LED lighting manufacturer to make samples and send to the U.S. for testing.
 
 [demo-url]: https://drive.google.com/drive/folders/1oV5e-RjhLeNPI4gRewH02vcymwyfLl8z
 
