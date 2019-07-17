@@ -15,33 +15,34 @@ categories: résumé
 ## Skills & abilities
 
 * 6+ years of experience with Ruby, Rails, and Javascript.
-* Years of hands-on experience with Javascript frameworks/libraries: React,
-Angular, Stimulus, jQuery, and other Javascript related technologies, such as
+* Years of hands-on experience with Javascript frameworks & libraries: React,
+Angular, Stimulus, jQuery, and Javascript related technologies, such as
 Typescript, Node.js, Webpack, Babel, Redux and more.
-* Experienced with Rails MVC pattern, CoC. Practical experience with Rails'
-configurations and features beyond the basics, e.g. Meta Programming,
-service objects, concerns, advanced associations, ActiveSupport Notifications,
-Instrumentation, etc. Understand Rails security principles. TDD/BDD.
+* Experienced with Ruby, Rails' MVC pattern, CoC. Practical experience with
+Meta Programming and Rails configurations, features beyond the basics, e.g.
+service objects, concerns, advanced associations, queries, ActiveSupport
+Notifications, Instrumentation, security, etc. TDD/BDD.
 * Understand the principles of OOP and Functional Programming. Practical
 experience of developing software using both paradigms. Solid knowledge
-of common Algorithms and data structures.
-* Understand the fundamentals of HTTP concepts, experience working
-with/developing REST api, GraphQL services in both backend and frontend.
-* Understand the core SQL concepts and efficient in SQL queries/operations.
-Experienced with using ORM like ActiveRecord inside and outside Rails.
+of common algorithms and data structures.
+* Understand the fundamentals of HTTP concepts. Experience consuming,
+developing REST, GraphQL services in backend, frontend.
+* Understand the core SQL concepts, principles, best practice and efficient
+in SQL queries, operations. Experienced in using ORMs e.g. ActiveRecord
+inside, outside Rails and other ORMs e.g. Sequel.
 * Write clean, DRY, scalable, understandable and well-documented code.
-Write tests for my code and develop software with TDD, BDD approaches for
-both ruby projects using Rspec/Minitest and javascript projects using mocha, chai, etc.
-* Being able to read and understand teamates' code, discuss program
-implementations and technologies choices, work in an agile
-development team, communicate with UX, UI designers and implement their
-designs.
+Write tests and develop software in TDD, BDD approaches for both ruby
+projects using Rspec, Minitest and javascript projects using Mocha, Chai,
+etc. Experience using strong typed lang e.g. Typescript.
+* Being able to read, understand discuss program implementations and
+technologies choices with teammates, work in an agile
+development team, communicate with designers and implement their designs.
 * Understand the core concepts of Git. Fluent in Git operations and
 team-based workflow: branching, pull/merge request, rebase, etc.
-* Proficient with development tools like Vim, VS-Code, etc to maximum productivity.
+* Productive with development tools like Vim, VS-Code, etc.
 * Having a passion for software development and a willingness to learn,
-experiment with the latest technologies.
-* Good communication skill, critical thinking, and problem-solving
+experiment with the latest technologies and programming practices.
+* Team player, good communication skill, critical thinking, and problem-solving
 abilities. Self-driven and motivated.
 
 Below is a chart to demonstrate my core skills and strengths.
